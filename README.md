@@ -1,1 +1,2 @@
-# Info121
+# FoxWars
+Simulation of Predator-prey model
