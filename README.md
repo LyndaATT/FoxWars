@@ -1,2 +1,2 @@
 # FoxWars
-Simulation of Predator-prey model
+Simulation of Predator-Prey model
